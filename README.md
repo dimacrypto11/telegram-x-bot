@@ -13,8 +13,6 @@ Built with aiogram for efficient Telegram bot handling.
 Setup
 
 Clone the repository:
-git clone https://github.com/your-username/telegram-x-bot.git
-cd telegram-x-bot
 
 Install dependencies:
 pip install -r requirements.txt
